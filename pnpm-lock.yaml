@@ -1,0 +1,12 @@
+lockfileVersion: 5.3
+
+importers:
+
+  .:
+    specifiers:
+      foo: workspace:*
+    dependencies:
+      foo: link:packages/foo
+
+  packages/foo:
+    specifiers: {}

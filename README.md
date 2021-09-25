@@ -1,1 +1,1 @@
-# pnpm-test-pattern-bug
+# pnpm-test-pattern-bug2
