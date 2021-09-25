@@ -1,0 +1,13 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo BUILD",
+    "test": "echo TEST"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
